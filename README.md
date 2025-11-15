@@ -37,6 +37,7 @@ https://shashi-29-knn-based-pattern-recognition-system-for-h-app-unojx2.streamli
 ✔ Clean, modular Python code
 
 📂 Project Structure
+
 📁 knn_heart_project
 │── heart.csv
 │── train.py
