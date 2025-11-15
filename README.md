@@ -21,6 +21,7 @@ A Streamlit web application for real-time predictions
 https://shashi-29-knn-based-pattern-recognition-system-for-h-app-unojx2.streamlit.app/
 
 🚀 Features
+
 ✔ KNN classification model
 
 ✔ Data preprocessing & normalization
