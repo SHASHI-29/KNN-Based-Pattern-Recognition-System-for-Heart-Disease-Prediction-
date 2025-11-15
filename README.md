@@ -36,18 +36,6 @@ https://shashi-29-knn-based-pattern-recognition-system-for-h-app-unojx2.streamli
 
 ✔ Clean, modular Python code
 
-📂 Project Structure
-
-📁 knn_heart_project
-│── heart.csv
-│── train.py
-│── app.py
-│── knn_heart_model.pkl
-│── scaler.pkl
-│── model_info.txt
-│── requirements.txt
-│── README.md
-
 📊 Dataset Information
 
 Source: Kaggle — Heart Disease Prediction Dataset
